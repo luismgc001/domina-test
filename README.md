@@ -20,37 +20,13 @@ Esta aplicación es una implementación de un listado de usuarios utilizando Rea
 
 1. Clonar el repositorio:
 ```bash
-git clone <url-del-repositorio>
-cd nombre-del-proyecto
+git clone <https://github.com/luismgc001/domina-test>
+cd domina-test
 ```
 
 2. Instalar las dependencias:
 ```bash
 npm install
-```
-
-3. Instalar los componentes de shadcn/ui:
-```bash
-npx shadcn-ui@latest init
-```
-
-Durante la instalación de shadcn/ui, seleccionar:
-- Would you like to use TypeScript? → No
-- Which style would you like to use? → Default
-- Which color would you like to use as base color? → Slate
-- Where is your global CSS file? → src/index.css
-- Would you like to use CSS variables for colors? → Yes
-- Where is your tailwind.config.js located? → tailwind.config.js
-- Configure the import alias for components? → @/components
-- Configure the import alias for utils? → @/lib/utils
-- Are you using React Server Components? → No
-
-4. Instalar los componentes necesarios:
-```bash
-npx shadcn-ui@latest add card
-npx shadcn-ui@latest add input
-npx shadcn-ui@latest add button
-npx shadcn-ui@latest add pagination
 ```
 
 ## Ejecución
