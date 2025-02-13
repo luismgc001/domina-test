@@ -20,7 +20,7 @@ Esta aplicación es una implementación de un listado de usuarios utilizando Rea
 
 1. Clonar el repositorio:
 ```bash
-git clone <https://github.com/luismgc001/domina-test>
+git clone https://github.com/luismgc001/domina-test
 cd domina-test
 ```
 
